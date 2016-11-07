@@ -1,7 +1,6 @@
 # cluster
 tools for agglomerative clustering
-
---cosine_similarity
---cal_distance
---distance_point_point
---agglomerative_cluster
+1.cosine_similarity
+2.cal_distance
+3.distance_point_point
+4.agglomerative_cluster
